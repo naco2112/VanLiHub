@@ -2,7 +2,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "🔥 VanLi Hub | Game 🔫",
-   LoadingTitle = "🔫 Gun Simulator 💥",
+   LoadingTitle = "🔫Vanlı Hub💥",
    LoadingSubtitle = "naco2112",
    ConfigurationSaving = {
       Enabled = false,
