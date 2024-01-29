@@ -155,4 +155,12 @@ local Button3 = TPTab:CreateButton({
    end,
 })
 
+local Button4 = TPTab:CreateButton({
+   Name = "Kat",
+   Callback = function(eb)
+            eb = loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+        --Teleport3
+   end,
+})
+
 local TPTab = Window:CreateTab("🎲 Misc", nil) -- Title, Image
